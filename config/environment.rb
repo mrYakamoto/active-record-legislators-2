@@ -5,6 +5,7 @@ require "sqlite3"
 require "pathname"
 
 
+
 # Identify the root directory for the application
 # so that we can later reference files from APP_ROOT
 path_to_root_directory = File.expand_path('../../', __FILE__)
