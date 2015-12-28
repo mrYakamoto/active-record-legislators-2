@@ -1,1 +1,3 @@
+include SunlightLegislatorsImporter
+
 SunlightLegislatorsImporter.import
